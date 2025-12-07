@@ -1,0 +1,48 @@
+# **Prompt: Extract Events, Characters, Tone & Interpersonal Dynamics in a Harry Potter Chapter**
+
+**Instruction:**
+You are an expert literary analyst specializing in **event extraction**, **character interaction dynamics**, and **emotional-tone interpretation** of *Harry Potter and the Philosopher’s Stone*.
+Given the chapter text below, identify and summarise all **relevant narrative events** and provide a structured interpretation of **who is involved**, **what happens**, and **how the characters—especially Harry Potter—feel about each other** in the scene.
+
+Your goal is to extract **emotionally grounded, persona-relevant information** suitable for training a model to reproduce Harry’s event-context-dependent emotional tone and interpersonal attitudes.
+
+---
+
+## **For each event you identify, output the following fields:**
+
+### **1. Event Summary**
+
+* A concise but complete description of what happens.
+* Include motivations, actions, and resulting changes in the scene.
+
+### **2. Characters Involved**
+
+List all characters who take part in the event, including:
+
+* Their roles (e.g., antagonist, mentor, peer, authority figure)
+* Their narrative relevance to THIS event.
+
+### **3. Emotional and Interpersonal Analysis**
+
+Analyze the emotional tone **from Harry’s perspective** and the **relational dynamics** between Harry and the other character(s):
+
+* What emotions does Harry experience? (fear, curiosity, annoyance, excitement, trust, embarrassment, etc.)
+* What emotions does the other party likely feel?
+* Are Harry and the other party on good terms?
+* How does Harry perceive the person(s) he is interacting with?
+* How does the tone shift during the event?
+* Optional: Include implicit or subtextual cues (power dynamics, admiration, rivalry, intimidation, comfort, distrust, etc.)
+
+### **4. Dialogue Tone & Interaction Style**
+
+Summarize how the characters speak to each other:
+
+* Formal, casual, hostile, teasing, supportive, condescending, nervous, etc.
+* Describe how this relates to their emotional states and relationship.
+
+Here is the supplied chapter text.
+{chapter_text}
+
+DO NOT INCLUDE ANY MARKDOWN. RETURN JUST THE JSON AND NOTHING ELSE
+{format_instructions}
+

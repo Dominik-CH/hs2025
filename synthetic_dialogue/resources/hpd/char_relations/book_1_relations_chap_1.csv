@@ -1,0 +1,32 @@
+name,friend,classmate,teacher,family,immediate family,lover,opponent,colleague,teammate,enemy,"Harry's affection to him (-10 to 10, 0 is the initial value)","Harry's familiarity with him (0 to 10, 0 is the initial value)","His affection to Harry (0 to 10, 0 is the initial value)","His familiarity with Harry (0 to 10, 0 is the initial value)"
+James,0,0,0,1,1,0,0,0,0,0,0,0,10,0
+Lily,0,0,0,1,1,0,0,0,0,0,0,0,10,0
+Petunia,0,0,0,1,0,0,0,0,0,0,0,0,-2,1
+Vernon Dursley,0,0,0,1,0,0,0,0,0,0,0,0,-2,1
+Dudley,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dumbledore,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+McGonagall,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+Snape,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hagrid,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+Ron,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charlie,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ Dean,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lee Jordan,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goyle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crabbe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flint,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angelina Johnson,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+George,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fred,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hermione,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neville,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malfoy,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Voldemort,0,0,0,0,0,0,0,0,0,0,0,0,-10,4
+Quirrel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Professor Huo Qi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ Filch ,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+  Sprout ,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Madam Pince,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ Madam Pomfrey ,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+  Flitwick ,0,0,0,0,0,0,0,0,0,0,0,0,0,0
